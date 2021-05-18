@@ -7,6 +7,7 @@
 ## Info
 
 Делал фронт на скорую руку, так как задание больше по бэку, на стилями не старался от слова совсе да и если надо что-то серьзное у меня есть такие проекты на GitHub
+
 [Appvelox](https://github.com/bewels/appvelox)
 
 [Pizza](https://github.com/bewels/pizza-dev-v)
